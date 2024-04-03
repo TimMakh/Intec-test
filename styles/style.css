@@ -810,6 +810,7 @@
 
 .footer__outro {
   display: flex;
+    margin: 0;
 }
 
 .footer__mark {
